@@ -7,3 +7,19 @@ Current situation: in some locations, due to the high flow of material shipments
 What is desired: By using the created application, warehouse managers will be able to better manage the unloading of materials and prevent the formation of queues at the entrance to the warehouse.
 
 ![Login](https://github.com/WWDGB/TransportApp/assets/106118119/5e0548c0-966c-40b2-93fd-d6dfcabe380e)
+
+![homepage](https://github.com/WWDGB/TransportApp/assets/106118119/38d65e08-c3a8-41cd-baee-2bc5f765264d)
+
+![Locations](https://github.com/WWDGB/TransportApp/assets/106118119/2aefe7ef-575a-46d9-9581-77fc205ad7fa)
+
+![Locations_ADD](https://github.com/WWDGB/TransportApp/assets/106118119/a2a9ee6a-920e-45fd-be84-381eb59844b6)
+
+![Drivers](https://github.com/WWDGB/TransportApp/assets/106118119/078d5eb6-279e-4aeb-ae7c-1e318a1e62f4)
+
+![Drivers_ADD](https://github.com/WWDGB/TransportApp/assets/106118119/c30794b3-a610-4741-a7ee-5e89e3a507b3)
+
+![Transport](https://github.com/WWDGB/TransportApp/assets/106118119/e6ccd917-ba79-4f67-985c-64658f203cd3)
+
+![Transports](https://github.com/WWDGB/TransportApp/assets/106118119/10b5fd5b-1e8a-498c-8964-ccd388a13446)
+
+
