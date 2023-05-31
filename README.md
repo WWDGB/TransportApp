@@ -10,9 +10,9 @@ What is desired: By using the created application, warehouse managers will be ab
 
 ![homepage](https://github.com/WWDGB/TransportApp/assets/106118119/38d65e08-c3a8-41cd-baee-2bc5f765264d)
 
-![Locations](https://github.com/WWDGB/TransportApp/assets/106118119/2aefe7ef-575a-46d9-9581-77fc205ad7fa)
+![location](https://github.com/WWDGB/TransportApp/assets/106118119/5bfe91c5-99d4-490b-9a2c-6e1457f50342)
 
-![Locations_ADD](https://github.com/WWDGB/TransportApp/assets/106118119/a2a9ee6a-920e-45fd-be84-381eb59844b6)
+![location_add](https://github.com/WWDGB/TransportApp/assets/106118119/1dc2158f-b90c-473c-ab2c-accf3cc0f0f1)
 
 ![Drivers](https://github.com/WWDGB/TransportApp/assets/106118119/078d5eb6-279e-4aeb-ae7c-1e318a1e62f4)
 
